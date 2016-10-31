@@ -1,4 +1,4 @@
-web: ELASTICSEARCH_URL=http://192.168.99.100:32781 CLUSTER_NAME=xxxxxx API_KEY=xxxxxx AIRPLANE_MODE=1 PUBLIC_ALLOWED=1 FLASK_APP=elephant/elephant.py flask run
+web: ELASTICSEARCH_URL=http://192.168.99.100:32773 CLUSTER_NAME=xxxxxx API_KEY=xxxxxx AIRPLANE_MODE=1 PUBLIC_ALLOWED=1 FLASK_APP=elephant/elephant.py flask run
 
 
 #
